@@ -6,7 +6,7 @@ resources:
 - imagestreams/sh-tools.yaml
 - issuers/prod-ref-ss.yaml
 # - issuers/prod-ref-ss-ca.yaml
-- issuer/prod-ref-ss-ca.yaml
+# - issuer/prod-ref-ss-ca.yaml
 # - pipelines/ace-bar-pipeline.yaml
 - pipelines/ace-integration-server.yaml
 - pipelines/ace-config.yaml
