@@ -19,7 +19,7 @@ spec:
   pod:
     containers:
       runtime:
-        image: image-registry.openshift-image-registry.svc:5000/ci/create-customer-details-rest:4798ab243adc6681020ba8c7fc442b6ae17c5b4c
+        image: image-registry.openshift-image-registry.svc:5000/ci/create-customer-details-rest:d34098af9cd1215f5a5e12c3b42ec207535585e3
         imagePullPolicy: Always
   configurations:
     - create-customer-serverconf.yaml
